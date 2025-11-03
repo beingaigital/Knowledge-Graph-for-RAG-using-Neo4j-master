@@ -65,6 +65,9 @@ backup_*/
 neo4j/
 graph.db/
 
+# Agent v2 (不需要上传)
+pr_agent_v2/
+
 # 测试覆盖率
 .coverage
 htmlcov/

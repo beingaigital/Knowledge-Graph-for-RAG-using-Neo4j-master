@@ -307,3 +307,4 @@ kg.export_to_json('graph.json')
 - 原始方法：Fareed Khan - Converting Unstructured Data into a Knowledge Graph
 - 文章链接：https://levelup.gitconnected.com/converting-unstructured-data-into-a-knowledge-graph-using-an-end-to-end-pipeline-552a508045f9
 
+
