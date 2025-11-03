@@ -1,0 +1,15 @@
+# Pinned for compatibility
+llama-index-core==0.10.62
+llama-index-embeddings-huggingface==0.2.2
+chromadb==0.5.5
+sentence-transformers==2.6.1
+transformers==4.41.2
+tokenizers==0.19.1
+
+# Optional (only if you want ChromaVectorStore integration; code will fallback if missing)
+# llama-index-vector-stores-chroma==0.1.10
+
+# Misc
+tqdm>=4.66
+numpy<2
+pyyaml>=6.0.1
